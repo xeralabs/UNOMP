@@ -1,3 +1,10 @@
+Xeralabs - TALP Team
+---------------
+* [Eduardo Ridao / manoguar](https://github.com/manoguar) - project management lead developer.
+* [Gemma Catala / helloputty](http://github.com/helloputty) - art designer.
+
+
+
 Original author (zone117x):
 ---------
 To support development of this project feel free to donate :)
